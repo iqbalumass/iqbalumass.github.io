@@ -9,6 +9,6 @@ window.PROFILE = {
   "orcid": "https://orcid.org/0009-0008-7369-752X",
   "github": "",
   "linkedin": "",
-  "photo": "",
+  "photo": "iq.jpg",
   "cv": ""
 };
