@@ -8,7 +8,7 @@ window.PROFILE = {
   "scholar": "https://scholar.google.com/citations?user=rJufJaYAAAAJ&hl=en",
   "orcid": "https://orcid.org/0009-0008-7369-752X",
   "github": "",
-  "linkedin": "",
+  "linkedin": "https://www.linkedin.com/in/mdiqbalhossain1992/",
   "photo": "iq.jpg",
   "cv": ""
 };
